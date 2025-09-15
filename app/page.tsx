@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-cyan-400 font-mono flex flex-col items-center justify-center px-6 py-12 relative overflow-hidden">
@@ -39,3 +40,6 @@ export default function Home() {
   );
 }
 
+=======
+Hier ist eine neue Datei
+>>>>>>> 58ed73cb67a8bc0a2c3ccd532c912720d0cef1c9
